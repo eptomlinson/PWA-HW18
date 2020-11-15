@@ -2,9 +2,7 @@
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
-    '/favorites.html',
-    '/topic.html',
-    '/assets/css/style.css',
+    '/public/style.css',
 ];
 
 // globals 

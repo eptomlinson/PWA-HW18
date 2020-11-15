@@ -30,7 +30,7 @@ const config = {
           start_url: '/',
           icons: [
             {
-              src: path.resolve('assets/images/icons/android-chrome-192x192.png'),
+              src: path.resolve('public/icons/icon-192x192.png'),
               sizes: [192, 512],
               destination: path.join('public', 'icons'),
             },
