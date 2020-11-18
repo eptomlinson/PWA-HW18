@@ -1,6 +1,6 @@
 # Warm Tundra Budget Tracker!!!
 
-When life gives you lemons, make sure to count how many lemons you just got! Hi, I'm Troy McLure! You may remember me from such apps as Game of Games, the board game API app, or Dinner and a Movie, the app that randomly selects a restaurant and movie to end your squabbles with your SO over what to do on date night.
+When life gives you lemons, make sure to count how many lemons you just got! Hi, I'm eptomlinson! You may remember me from such apps as Game of Games, the board game API app, or Dinner and a Movie, the app that randomly selects a restaurant and movie to end your squabbles with your SO over what to do on date night.
 
 Introducing: WARM TUNDRA BUDGET TRACKER!!!
 
